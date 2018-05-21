@@ -7,7 +7,6 @@ var md_aut = require('../middlewares/autenticacion');
 
 var Usuario = require("../models/usuario");
 
-
 /*
 Listar usuarios
 */
